@@ -1,0 +1,5 @@
+python-telegram-bot==20.6
+parsedatetime==2.6
+pytz==2025.2
+nest_asyncio==1.6.0
+python-dotenv==1.0.0
